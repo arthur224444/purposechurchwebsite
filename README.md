@@ -1,2 +1,2 @@
 # purposechurchwebsite
-A React app for the website for Purpose Church Watton
+Code for the website of Purpose Church Watton. The code here was developed by Sameer Methew
